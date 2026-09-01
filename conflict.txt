@@ -1,1 +1,5 @@
-FoodExpress version 1
+<<<<<<< HEAD
+FoodExpress version from branch 2
+=======
+FoodExpress version from branch 1
+>>>>>>> conflict-branch-1
